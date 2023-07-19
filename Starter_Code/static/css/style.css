@@ -1,6 +1,10 @@
 body {
   padding: 0;
   margin: 0;
+  
+  /* .info.legend.leaflet-control {
+    background-color: white;
+  } */
 }
 
 #map,
